@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, System } from "../index.js";
-import { Enum, Utils } from "../Common/index.js";
-import { Game } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { Datas, System } from "..";
+import { Enum, Utils } from "../Common";
+import { Game } from "../Core";
+import { Base } from "./Base";
 /** @class
  *  A skill learned by a player.
  *  @param {number} id - The ID of the skill

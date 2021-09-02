@@ -1,5 +1,5 @@
-import { System } from "../index.js";
-import { Vector3, Vector2 } from "../Core/index.js";
+import { System } from "../index";
+import { Vector3, Vector2 } from "../Core";
 /** @class
  *  The GL class handling some 3D stuff.
  *  @static

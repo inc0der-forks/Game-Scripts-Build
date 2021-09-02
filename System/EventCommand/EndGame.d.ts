@@ -1,5 +1,5 @@
-import { Base } from "./Base.js";
-import { MapObject } from "../Core/index.js";
+import { Base } from "./Base";
+import { MapObject } from "../Core";
 /** @class
  *  An event command for ending the game.
  *  @extends EventCommand.Base

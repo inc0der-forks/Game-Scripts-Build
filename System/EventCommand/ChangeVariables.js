@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { Datas, Manager, Scene, System } from "../index.js";
-import { MapObject, Position, Game, Item } from "../Core/index.js";
-import { Mathf, Enum, Utils } from "../Common/index.js";
+import { Base } from "./Base";
+import { Datas, Manager, Scene, System } from "../index";
+import { MapObject, Position, Game, Item } from "../Core";
+import { Mathf, Enum, Utils } from "../Common";
 /** @class
  *  An event command for changing variables values.
  *  @extends EventCommand.Base

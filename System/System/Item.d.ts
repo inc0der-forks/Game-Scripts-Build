@@ -1,5 +1,5 @@
-import { CommonSkillItem } from "./CommonSkillItem.js";
-import { Enum } from "../Common/index.js";
+import { CommonSkillItem } from "./CommonSkillItem";
+import { Enum } from "../Common";
 /** @class
  *  An item of the game.
  *  @extends CommonSkillItem

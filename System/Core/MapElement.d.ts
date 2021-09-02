@@ -1,8 +1,8 @@
-import { Enum } from "../Common/index.js";
+import { Enum } from "../Common";
 import ElementMapKind = Enum.ElementMapKind;
-import { Position } from "./Position.js";
-import { CollisionSquare } from "./CollisionSquare.js";
-import { Vector3 } from "./Vector3.js";
+import { Position } from "./Position";
+import { CollisionSquare } from "./CollisionSquare";
+import { Vector3 } from "./Vector3";
 interface StructMapElementCollision {
     b?: number[];
     p?: Position;

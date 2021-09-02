@@ -8,11 +8,11 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { Game, WindowChoices } from "../Core/index.js";
-import { Mathf, ScreenResolution } from "../Common/index.js";
-import { Datas, Manager, Scene, System } from "../index.js";
-import { SpinBox } from "../Core/SpinBox.js";
+import { Base } from "./Base";
+import { Game, WindowChoices } from "../Core";
+import { Mathf, ScreenResolution } from "../Common";
+import { Datas, Manager, Scene, System } from "..";
+import { SpinBox } from "../Core/SpinBox";
 /** @class
  *  An event command for entering a number inside a variable.
  *  @extends EventCommand.Base

@@ -1,6 +1,6 @@
-import { Player } from "../Core/index.js";
-import { Graphic } from "../index.js";
-import { Base } from "./Base.js";
+import { Player } from "../Core";
+import { Graphic } from "..";
+import { Base } from "./Base";
 /** @class
  *  The graphic displaying all the stats in the player description state menu.
  *  @param {GamePlayer} gamePlayer - The current selected player

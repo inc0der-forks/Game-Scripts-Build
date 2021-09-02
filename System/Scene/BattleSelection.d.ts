@@ -1,5 +1,5 @@
-import { Scene } from "../index.js";
-import { Enum } from "../Common/index.js";
+import { Scene } from "..";
+import { Enum } from "../Common";
 import CharacterKind = Enum.CharacterKind;
 import TargetKind = Enum.TargetKind;
 declare class BattleSelection {

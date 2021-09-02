@@ -8,13 +8,13 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Enum, Utils } from "../Common/index.js";
+import { Enum, Utils } from "../Common";
 var ElementMapKind = Enum.ElementMapKind;
-import { MapElement } from "./MapElement.js";
-import { Datas, Scene } from "../index.js";
-import { Vector3 } from "./Vector3.js";
-import { Vector2 } from "./Vector2.js";
-import { CustomGeometry } from "./CustomGeometry.js";
+import { MapElement } from "./MapElement";
+import { Datas, Scene } from "../index";
+import { Vector3 } from "./Vector3";
+import { Vector2 } from "./Vector2";
+import { CustomGeometry } from "./CustomGeometry";
 /** @class
  *  A sprite in the map.
  *  @extends MapElement

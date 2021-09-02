@@ -1,5 +1,5 @@
-import { MenuBase } from "./MenuBase.js";
-import { WindowBox, WindowChoices } from "../Core/index.js";
+import { MenuBase } from "./MenuBase";
+import { WindowBox, WindowChoices } from "../Core";
 /**
  * The menu scene displaying heroes equipments
  *

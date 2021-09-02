@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { Manager, System } from "../index.js";
-import { Utils } from "../Common/index.js";
-import { Chrono, Game } from "../Core/index.js";
+import { Base } from "./Base";
+import { Manager, System } from "../index";
+import { Utils } from "../Common";
+import { Chrono, Game } from "../Core";
 /** @class
  *  An event command for changing chronometer.
  *  @extends EventCommand.Base

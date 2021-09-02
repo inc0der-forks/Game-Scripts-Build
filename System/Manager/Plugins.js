@@ -8,8 +8,8 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { IO, Paths, Constants, Utils } from "../Common/index.js";
-import { System } from "../index.js";
+import { IO, Paths, Constants, Utils } from "../Common";
+import { System } from "../index";
 /** @class
  *  The class who handles plugins of RPG Paper Maker.
  *  @static

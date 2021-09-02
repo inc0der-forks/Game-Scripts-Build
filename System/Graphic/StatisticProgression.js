@@ -8,9 +8,9 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Graphic, System, Datas } from "../index.js";
-import { Constants, Platform, Utils } from "../Common/index.js";
-import { Base } from "./Base.js";
+import { Graphic, System, Datas } from "..";
+import { Constants, Platform, Utils } from "../Common";
+import { Base } from "./Base";
 /** @class
  *  The graphic displaying all the stats in the player description state menu.
  *  @param {GamePlayer} gamePlayer - The current selected player

@@ -8,7 +8,7 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Constants, IO } from "./index.js";
+import { Constants, IO } from "./index";
 const electron = require('electron');
 const remote = electron.remote;
 const ipc = electron.ipcRenderer;

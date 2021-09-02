@@ -8,8 +8,8 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, Graphic } from "../index.js";
-import { IO, Paths, Utils } from "../Common/index.js";
+import { Datas, Graphic } from "..";
+import { IO, Paths, Utils } from "../Common";
 /**
  *  @class
  *  All the languages datas.

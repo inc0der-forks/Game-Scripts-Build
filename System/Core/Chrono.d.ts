@@ -1,4 +1,4 @@
-import { Graphic } from "../index.js";
+import { Graphic } from "..";
 /** @class
  *  A chrono in the game.
  *  @param {number} start - The start time of the chrono (in milliseconds)

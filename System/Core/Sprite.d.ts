@@ -1,11 +1,11 @@
-import { Enum } from "../Common/index.js";
+import { Enum } from "../Common";
 import ElementMapKind = Enum.ElementMapKind;
-import { MapElement, StructMapElementCollision } from "./MapElement.js";
-import { Position } from "./Position.js";
-import { Core } from "../index.js";
-import { Vector3 } from "./Vector3.js";
-import { Vector2 } from "./Vector2.js";
-import { CustomGeometry } from "./CustomGeometry.js";
+import { MapElement, StructMapElementCollision } from "./MapElement";
+import { Position } from "./Position";
+import { Core } from "../index";
+import { Vector3 } from "./Vector3";
+import { Vector2 } from "./Vector2";
+import { CustomGeometry } from "./CustomGeometry";
 /** @class
  *  A sprite in the map.
  *  @extends MapElement

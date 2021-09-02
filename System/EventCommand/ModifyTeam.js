@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { Scene, System } from "../index.js";
-import { Enum } from "../Common/index.js";
-import { Game } from "../Core/index.js";
+import { Base } from "./Base";
+import { Scene, System } from "../index";
+import { Enum } from "../Common";
+import { Game } from "../Core";
 /** @class
  *  An event command for modifying team.
  *  @extends EventCommand.Base

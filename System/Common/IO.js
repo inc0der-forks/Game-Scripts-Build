@@ -8,8 +8,8 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas } from "../index.js";
-import { Platform } from "./Platform.js";
+import { Datas } from "..";
+import { Platform } from "./Platform";
 /**
  * The Input and Output class who handles loading and saving.
  *

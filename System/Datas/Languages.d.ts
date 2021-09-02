@@ -1,4 +1,4 @@
-import { Graphic } from "../index.js";
+import { Graphic } from "..";
 /**
  *  @class
  *  All the languages datas.

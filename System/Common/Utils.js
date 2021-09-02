@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Rectangle } from "../Core/index.js";
-import { Constants } from "./index.js";
-import { Platform } from "./Platform.js";
-import { ScreenResolution } from "./ScreenResolution.js";
+import { Rectangle } from "../Core";
+import { Constants } from "./index";
+import { Platform } from "./Platform";
+import { ScreenResolution } from "./ScreenResolution";
 /**
  * The static class containing all the utils functions.
  *

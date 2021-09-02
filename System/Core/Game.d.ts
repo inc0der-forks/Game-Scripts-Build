@@ -1,12 +1,12 @@
-import { Player } from "./Player.js";
-import { System } from "../index.js";
-import { Item } from "./Item.js";
-import { Chrono } from "./Chrono.js";
-import { MapObject } from "./MapObject.js";
-import { Enum } from "../Common/index.js";
+import { Player } from "./Player";
+import { System } from "../index";
+import { Item } from "./Item";
+import { Chrono } from "./Chrono";
+import { MapObject } from "./MapObject";
+import { Enum } from "../Common";
 import GroupKind = Enum.GroupKind;
 import CharacterKind = Enum.CharacterKind;
-import { Portion } from "./Portion.js";
+import { Portion } from "./Portion";
 /** @class
  *  All the global informations of a particular game.
  *  @param {number} slot - The number of the slot to load

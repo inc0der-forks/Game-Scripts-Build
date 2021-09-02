@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, Scene, System } from "../index.js";
-import { Enum, Mathf, Utils } from "../Common/index.js";
-import { Player } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { Datas, Scene, System } from "..";
+import { Enum, Mathf, Utils } from "../Common";
+import { Player } from "../Core";
+import { Base } from "./Base";
 /** @class
  *  A troop reaction conditions of the game.
  *  @extends System.Base

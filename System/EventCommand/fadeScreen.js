@@ -1,4 +1,4 @@
-import { Base } from "./Base.js";
+import { Base } from "./Base";
 /**
  * An event class who control the screen fading.
  *

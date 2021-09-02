@@ -1,4 +1,4 @@
-import { Anchor2D } from "./Anchor2D.js";
+import { Anchor2D } from "./Anchor2D";
 /** @class
  *  The data class for anchors.
  *  @property {number} x

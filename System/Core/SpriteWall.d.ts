@@ -1,6 +1,6 @@
-import { MapElement, StructMapElementCollision } from "./MapElement.js";
-import { Position } from "./Position.js";
-import { CustomGeometry } from "./CustomGeometry.js";
+import { MapElement, StructMapElementCollision } from "./MapElement";
+import { Position } from "./Position";
+import { CustomGeometry } from "./CustomGeometry";
 /** @class
  *  A sprite in the map.
  *  @extends MapElement

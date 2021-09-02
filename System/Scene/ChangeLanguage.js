@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, Graphic, Manager } from "../index.js";
-import { Constants, Enum, Inputs, Platform, ScreenResolution } from "../Common/index.js";
-import { Picture2D, Rectangle, WindowBox, WindowChoices } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { Datas, Graphic, Manager } from "..";
+import { Constants, Enum, Inputs, Platform, ScreenResolution } from "../Common";
+import { Picture2D, Rectangle, WindowBox, WindowChoices } from "../Core";
+import { Base } from "./Base";
 /** @class
  *  A scene for the language setting.
  *  @extends Scene.Base

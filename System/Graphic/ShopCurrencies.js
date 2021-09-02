@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { Graphic, Datas } from "../index.js";
-import { Constants, Mathf } from "../Common/index.js";
-import { Game } from "../Core/index.js";
+import { Base } from "./Base";
+import { Graphic, Datas } from "../index";
+import { Constants, Mathf } from "../Common";
+import { Game } from "../Core";
 /** @class
  *  The graphic displaying all currencies when in shop menu.
  *  @extends Graphic.Base

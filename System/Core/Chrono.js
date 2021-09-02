@@ -8,8 +8,8 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Graphic } from "../index.js";
-import { Enum, ScreenResolution, Utils } from "../Common/index.js";
+import { Graphic } from "..";
+import { Enum, ScreenResolution, Utils } from "../Common";
 /** @class
  *  A chrono in the game.
  *  @param {number} start - The start time of the chrono (in milliseconds)

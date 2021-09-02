@@ -1,4 +1,4 @@
-import { SpecialElement } from "./SpecialElement.js";
+import { SpecialElement } from "./SpecialElement";
 /** @class
  *  Abn autotile of the game.
  *  @extends System.SpecialElement

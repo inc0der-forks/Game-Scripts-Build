@@ -1,7 +1,7 @@
-import { System } from "../index.js";
-import { Enum } from "../Common/index.js";
-import { Translatable } from "./Translatable.js";
-import { Item } from "../Core/index.js";
+import { System } from "../index";
+import { Enum } from "../Common";
+import { Translatable } from "./Translatable";
+import { Item } from "../Core";
 /** @class
  *  An inventory filter used to filter inventory or shops items.
  *  @extends Translatable

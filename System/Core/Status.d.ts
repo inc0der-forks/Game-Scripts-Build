@@ -1,7 +1,7 @@
-import { System } from "../index.js";
-import { Enum } from "../Common/index.js";
-import { Battler } from "./Battler.js";
-import { Picture2D } from "./Picture2D.js";
+import { System } from "..";
+import { Enum } from "../Common";
+import { Battler } from "./Battler";
+import { Picture2D } from "./Picture2D";
 /** @class
  *  A status affected to a player.
  *  @param {number} id - The ID of the status

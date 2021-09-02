@@ -1,4 +1,4 @@
-import { Vector3 } from "./index.js";
+import { Vector3 } from "./index";
 /** @class
  *  The data class for portion.
  *  @param {number} x

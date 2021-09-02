@@ -8,8 +8,8 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas } from "../index.js";
-import { Constants, Enum } from "../Common/index.js";
+import { Datas } from "..";
+import { Constants, Enum } from "../Common";
 /** @class
  *  A status affected to a player.
  *  @param {number} id - The ID of the status

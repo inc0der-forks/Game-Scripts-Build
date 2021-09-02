@@ -1,6 +1,6 @@
-import { Translatable } from "./Translatable.js";
-import { System } from "../index.js";
-import { Skill } from "../Core/index.js";
+import { Translatable } from "./Translatable";
+import { System } from "..";
+import { Skill } from "../Core";
 /** @class
  *  A class of the game.
  *  @extends System.Translatable

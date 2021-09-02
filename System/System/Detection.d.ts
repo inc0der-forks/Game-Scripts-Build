@@ -1,5 +1,5 @@
-import { Base } from "./Base.js";
-import { MapObject, Position } from "../Core/index.js";
+import { Base } from "./Base";
+import { MapObject, Position } from "../Core";
 /** @class
  *  A detection of the game.
  *  @extends System.Base

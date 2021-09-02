@@ -8,26 +8,26 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { THREE } from "../Globals.js";
-import { System, Manager, Datas, Scene } from "../index.js";
-import { Frame } from "./Frame.js";
-import { Enum, Utils, IO, Paths, Constants, Platform, Mathf } from "../Common/index.js";
+import { THREE } from "../Globals";
+import { System, Manager, Datas, Scene } from "../index";
+import { Frame } from "./Frame";
+import { Enum, Utils, IO, Paths, Constants, Platform, Mathf } from "../Common";
 var Orientation = Enum.Orientation;
 var ElementMapKind = Enum.ElementMapKind;
 var PictureKind = Enum.PictureKind;
 var ObjectMovingKind = Enum.ObjectMovingKind;
 var ShapeKind = Enum.ShapeKind;
-import { MapPortion } from "./MapPortion.js";
-import { Sprite } from "./Sprite.js";
-import { Position } from "./Position.js";
-import { CollisionSquare } from "./CollisionSquare.js";
-import { MapElement } from "./MapElement.js";
-import { Vector3 } from "./Vector3.js";
-import { Game } from "./Game.js";
-import { Object3DBox } from "./Object3DBox.js";
-import { Object3DCustom } from "./Object3DCustom.js";
-import { CustomGeometry } from "./CustomGeometry.js";
-import { Vector2 } from "./Vector2.js";
+import { MapPortion } from "./MapPortion";
+import { Sprite } from "./Sprite";
+import { Position } from "./Position";
+import { CollisionSquare } from "./CollisionSquare";
+import { MapElement } from "./MapElement";
+import { Vector3 } from "./Vector3";
+import { Game } from "./Game";
+import { Object3DBox } from "./Object3DBox";
+import { Object3DCustom } from "./Object3DCustom";
+import { CustomGeometry } from "./CustomGeometry";
+import { Vector2 } from "./Vector2";
 /**
  * Object in local map that can move.
  *

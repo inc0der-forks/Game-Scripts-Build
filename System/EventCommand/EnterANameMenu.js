@@ -8,8 +8,8 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Manager, Scene, System } from "../index.js";
-import { Base } from "./Base.js";
+import { Manager, Scene, System } from "..";
+import { Base } from "./Base";
 /** @class
  *  An event command for entering a name menu.
  *  @extends EventCommand.Base

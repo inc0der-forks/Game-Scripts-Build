@@ -1,7 +1,7 @@
-import { Item, Player, WindowBox, WindowChoices } from "../Core/index.js";
-import { SpinBox } from "../Core/SpinBox.js";
-import { StructPositionChoice } from "./Menu.js";
-import { MenuBase } from "./MenuBase.js";
+import { Item, Player, WindowBox, WindowChoices } from "../Core";
+import { SpinBox } from "../Core/SpinBox";
+import { StructPositionChoice } from "./Menu";
+import { MenuBase } from "./MenuBase";
 /**
  * The scene handling and processing the shop system.
  * @class

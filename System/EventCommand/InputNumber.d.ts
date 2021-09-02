@@ -1,6 +1,6 @@
-import { Base } from "./Base.js";
-import { MapObject } from "../Core/index.js";
-import { EventCommand, System } from "../index.js";
+import { Base } from "./Base";
+import { MapObject } from "../Core";
+import { EventCommand, System } from "..";
 /** @class
  *  An event command for entering a number inside a variable.
  *  @extends EventCommand.Base

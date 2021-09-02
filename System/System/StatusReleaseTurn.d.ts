@@ -1,6 +1,6 @@
-import { System } from "../index.js";
-import { Enum } from "../Common/index.js";
-import { Base } from "./Base.js";
+import { System } from "..";
+import { Enum } from "../Common";
+import { Base } from "./Base";
 /** @class
  *  A possible status release turn condition hero.
  *  @extends System.Base

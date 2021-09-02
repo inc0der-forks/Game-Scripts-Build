@@ -8,11 +8,11 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, Graphic, Manager, Scene } from "../index.js";
-import { Constants, Enum, ScreenResolution } from "../Common/index.js";
-import { Game, Item, Rectangle, WindowBox, WindowChoices } from "../Core/index.js";
-import { SpinBox } from "../Core/SpinBox.js";
-import { MenuBase } from "./MenuBase.js";
+import { Datas, Graphic, Manager, Scene } from "..";
+import { Constants, Enum, ScreenResolution } from "../Common";
+import { Game, Item, Rectangle, WindowBox, WindowChoices } from "../Core";
+import { SpinBox } from "../Core/SpinBox";
+import { MenuBase } from "./MenuBase";
 /**
  * The scene handling and processing the shop system.
  * @class

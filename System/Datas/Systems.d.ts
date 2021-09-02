@@ -1,5 +1,5 @@
-import { EventCommand, System } from "../index.js";
-import { MapObject } from "../Core/index.js";
+import { EventCommand, System } from "../index";
+import { MapObject } from "../Core";
 /** @class
 *   All the System datas.
 *   @static

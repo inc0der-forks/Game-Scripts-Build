@@ -1,6 +1,6 @@
-import { System } from "../index.js";
-import { MapObject } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { System } from "..";
+import { MapObject } from "../Core";
+import { Base } from "./Base";
 /** @class
  *  An event command for creating an object in map.
  *  @extends EventCommand.Base

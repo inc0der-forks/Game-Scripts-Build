@@ -1,4 +1,4 @@
-import { Bitmap } from "../Core/index.js";
+import { Bitmap } from "../Core";
 /**
  *  @class
  *  The abstract class who model the Structure of graphics (inside window boxes).

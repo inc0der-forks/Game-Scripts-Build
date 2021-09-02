@@ -1,6 +1,6 @@
-import { System } from "../index.js";
-import { Enum } from "../Common/index.js";
-import { Icon } from "./Icon.js";
+import { System } from "..";
+import { Enum } from "../Common";
+import { Icon } from "./Icon";
 /** @class
  *  A possible status hero.
  *  @extends System.Base

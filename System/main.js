@@ -8,8 +8,8 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, Manager } from "./index.js";
-import { Utils, Platform, Inputs } from "./Common/index.js";
+import { Datas, Manager } from "./index";
+import { Utils, Platform, Inputs } from "./Common";
 /**
  * The main class who boot and loop everything's
  *

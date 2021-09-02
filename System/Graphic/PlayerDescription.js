@@ -8,13 +8,13 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { Frame } from "../Core/index.js";
-import { Graphic, Datas, System, Manager } from "../index.js";
-import { Enum, Constants, Utils, Platform } from "../Common/index.js";
+import { Base } from "./Base";
+import { Frame } from "../Core";
+import { Graphic, Datas, System, Manager } from "../index";
+import { Enum, Constants, Utils, Platform } from "../Common";
 var Align = Enum.Align;
 var PictureKind = Enum.PictureKind;
-import { Status } from "../Core/Status.js";
+import { Status } from "../Core/Status";
 /** @class
  *  The graphic displaying all the stats in the player description state menu.
  *  @extends Graphic.Base

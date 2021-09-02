@@ -8,9 +8,9 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { System, Manager, EventCommand, Scene } from "../index.js";
-import { Utils } from "../Common/index.js";
+import { Base } from "./Base";
+import { System, Manager, EventCommand, Scene } from "../index";
+import { Utils } from "../Common";
 /** @class
  *  An event command for shaking screen.
  *  @extends EventCommand.Base

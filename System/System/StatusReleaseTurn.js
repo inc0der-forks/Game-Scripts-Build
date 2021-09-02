@@ -8,9 +8,9 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { System } from "../index.js";
-import { Enum, Utils } from "../Common/index.js";
-import { Base } from "./Base.js";
+import { System } from "..";
+import { Enum, Utils } from "../Common";
+import { Base } from "./Base";
 /** @class
  *  A possible status release turn condition hero.
  *  @extends System.Base

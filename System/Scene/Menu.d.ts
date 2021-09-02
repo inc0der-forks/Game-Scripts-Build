@@ -1,5 +1,5 @@
-import { WindowChoices, WindowBox } from "../Core/index.js";
-import { MenuBase } from "./MenuBase.js";
+import { WindowChoices, WindowBox } from "../Core";
+import { MenuBase } from "./MenuBase";
 interface StructPositionChoice {
     index: number;
     offset: number;

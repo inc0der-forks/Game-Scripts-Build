@@ -1,7 +1,7 @@
-import { Base } from "./index.js";
-import { Graphic } from "../index.js";
-import { Player } from "../Core/index.js";
-import { Enum } from "../Common/index.js";
+import { Base } from ".";
+import { Graphic } from "..";
+import { Player } from "../Core";
+import { Enum } from "../Common";
 import Align = Enum.Align;
 /**
  * The menu commands structure

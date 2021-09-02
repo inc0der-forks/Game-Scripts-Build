@@ -1,10 +1,10 @@
-import { Base } from "./Base.js";
-import { Enum } from "../Common/index.js";
+import { Base } from "./Base";
+import { Enum } from "../Common";
 import Orientation = Enum.Orientation;
 import EffectSpecialActionKind = Enum.EffectSpecialActionKind;
 import PictureKind = Enum.PictureKind;
-import { System, Scene } from "../index.js";
-import { Position, Portion, MapPortion, TextureBundle, Vector3, Battler, Frame, Vector2, Player } from "../Core/index.js";
+import { System, Scene } from "../index";
+import { Position, Portion, MapPortion, TextureBundle, Vector3, Battler, Frame, Vector2, Player } from "../Core";
 /** @class
  *  A scene for a local map.
  *  @extends Scene.Base

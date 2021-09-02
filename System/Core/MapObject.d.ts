@@ -1,8 +1,8 @@
-import { System, EventCommand } from "../index.js";
-import { Frame } from "./Frame.js";
-import { Enum } from "../Common/index.js";
+import { System, EventCommand } from "../index";
+import { Frame } from "./Frame";
+import { Enum } from "../Common";
 import Orientation = Enum.Orientation;
-import { Vector3 } from "./Vector3.js";
+import { Vector3 } from "./Vector3";
 interface StructSearchResult {
     object: MapObject;
     id: number;

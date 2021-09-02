@@ -1,6 +1,6 @@
-import { Bitmap, Picture2D, Tree, Node } from "../Core/index.js";
-import { Graphic } from "../index.js";
-import { Enum } from "../Common/index.js";
+import { Bitmap, Picture2D, Tree, Node } from "../Core";
+import { Graphic } from "../index";
+import { Enum } from "../Common";
 import TagKind = Enum.TagKind;
 import Align = Enum.Align;
 /** @class

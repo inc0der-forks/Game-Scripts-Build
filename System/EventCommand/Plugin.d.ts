@@ -1,6 +1,6 @@
-import { Base } from "./Base.js";
-import { MapObject } from "../Core/index.js";
-import { System } from "../index.js";
+import { Base } from "./Base";
+import { MapObject } from "../Core";
+import { System } from "..";
 /** @class
  *  An event command for allowing forbidding main menu.
  *  @extends EventCommand.Base

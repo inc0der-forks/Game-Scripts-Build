@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./index.js";
-import { Datas, Graphic, Scene } from "../index.js";
-import { Game } from "../Core/index.js";
-import { Inputs } from "../Common/index.js";
+import { Base } from ".";
+import { Datas, Graphic, Scene } from "..";
+import { Game } from "../Core";
+import { Inputs } from "../Common";
 /**
  * The superclass who handle menu related scenes
  *

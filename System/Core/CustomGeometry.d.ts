@@ -1,6 +1,6 @@
-import { THREE } from "../Globals.js";
-import { Vector2 } from "./Vector2.js";
-import { Vector3 } from "./Vector3.js";
+import { THREE } from "../Globals";
+import { Vector2 } from "./Vector2";
+import { Vector3 } from "./Vector3";
 /**
  *  The geometry used to apply vertices + indices + uvs.
  *

@@ -8,8 +8,8 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { THREE } from "../Globals.js";
-import { Vector3 } from "./Vector3.js";
+import { THREE } from "../Globals";
+import { Vector3 } from "./Vector3";
 /**
  *  The geometry used to apply vertices + indices + uvs.
  *

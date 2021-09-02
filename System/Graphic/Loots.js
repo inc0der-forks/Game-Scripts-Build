@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { Enum } from "../Common/index.js";
+import { Base } from "./Base";
+import { Enum } from "../Common";
 var LootKind = Enum.LootKind;
-import { Graphic } from "../index.js";
+import { Graphic } from "..";
 /** @class
  *  The graphic displaying all the items dropped at the end of a battle.
  *  @extends Graphic.Base

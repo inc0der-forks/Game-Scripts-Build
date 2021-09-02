@@ -1,4 +1,4 @@
-import { Scene } from "../index.js";
+import { Scene } from "..";
 declare class BattleVictory {
     battle: Scene.Battle;
     constructor(battle: Scene.Battle);

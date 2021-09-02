@@ -1,5 +1,5 @@
-import { Graphic } from "../index.js";
-import { Base } from "./Base.js";
+import { Graphic } from "..";
+import { Base } from "./Base";
 /** @class
  *  The graphic displaying spinbox inside.
  *  @extends Graphic.Base

@@ -1,5 +1,5 @@
-import { Enum } from "../Common/index.js";
-import { Translatable } from "./Translatable.js";
+import { Enum } from "../Common";
+import { Translatable } from "./Translatable";
 /** @class
  *  A main menu command in scene main menu.
  *  @extends Translatable

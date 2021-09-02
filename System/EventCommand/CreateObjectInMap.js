@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, Scene, System } from "../index.js";
-import { Utils } from "../Common/index.js";
-import { Game, MapObject, Position } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { Datas, Scene, System } from "..";
+import { Utils } from "../Common";
+import { Game, MapObject, Position } from "../Core";
+import { Base } from "./Base";
 /** @class
  *  An event command for creating an object in map.
  *  @extends EventCommand.Base

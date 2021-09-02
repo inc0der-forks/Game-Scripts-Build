@@ -8,11 +8,11 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Scene, Graphic, Manager, Datas, System } from "../index.js";
-import { Enum, ScreenResolution, Platform } from "../Common/index.js";
+import { Scene, Graphic, Manager, Datas, System } from "..";
+import { Enum, ScreenResolution, Platform } from "../Common";
 var CharacterKind = Enum.CharacterKind;
 var LootKind = Enum.LootKind;
-import { WindowBox, Item, Game } from "../Core/index.js";
+import { WindowBox, Item, Game } from "../Core";
 // -------------------------------------------------------
 //
 //  CLASS BattleVictory

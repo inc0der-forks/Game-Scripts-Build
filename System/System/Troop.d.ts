@@ -1,5 +1,5 @@
-import { System } from "../index.js";
-import { Base } from "./Base.js";
+import { System } from "..";
+import { Base } from "./Base";
 /** @class
  *  A troop of the game.
  *  @extends System.Base

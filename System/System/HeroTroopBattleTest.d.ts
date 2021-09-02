@@ -1,6 +1,6 @@
-import { System } from "../index.js";
-import { Player } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { System } from "..";
+import { Player } from "../Core";
+import { Base } from "./Base";
 /** @class
  *  An hero troop battle test.
  *  @extends System.Base

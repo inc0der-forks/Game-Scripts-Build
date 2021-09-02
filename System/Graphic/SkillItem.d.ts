@@ -1,6 +1,6 @@
-import { Base } from "./Base.js";
-import { System, Graphic } from "../index.js";
-import { Picture2D } from "../Core/index.js";
+import { Base } from "./Base";
+import { System, Graphic } from "../index";
+import { Picture2D } from "../Core";
 /** @class
  *  The graphic for skill or item displaying.
  *  @extends Graphic.Base

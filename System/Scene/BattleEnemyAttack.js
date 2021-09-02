@@ -8,15 +8,15 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas } from "../index.js";
-import { Enum, Mathf, Interpreter, Utils } from "../Common/index.js";
+import { Datas } from "..";
+import { Enum, Mathf, Interpreter, Utils } from "../Common";
 var CharacterKind = Enum.CharacterKind;
 var EffectSpecialActionKind = Enum.EffectSpecialActionKind;
 var EffectKind = Enum.EffectKind;
 var MonsterActionKind = Enum.MonsterActionKind;
 var TargetKind = Enum.TargetKind;
 var MonsterActionTargetKind = Enum.MonsterActionTargetKind;
-import { Game } from "../Core/index.js";
+import { Game } from "../Core";
 // -------------------------------------------------------
 //
 //  CLASS SceneBattle

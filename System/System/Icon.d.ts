@@ -1,4 +1,4 @@
-import { Translatable } from "./Translatable.js";
+import { Translatable } from "./Translatable";
 /** @class
  *  Something at least including an icon.
  *  @extends {System.Translatable}

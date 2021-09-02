@@ -1,4 +1,4 @@
-import { Enum } from "../Common/index.js";
+import { Enum } from "../Common";
 /**
  * The class who handles the heroes party.
  *

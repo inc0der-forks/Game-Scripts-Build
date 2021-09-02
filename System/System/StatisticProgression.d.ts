@@ -1,7 +1,7 @@
-import { Base } from "./Base.js";
-import { DynamicValue } from "./DynamicValue.js";
-import { ProgressionTable } from "./ProgressionTable.js";
-import { Player } from "../Core/index.js";
+import { Base } from "./Base";
+import { DynamicValue } from "./DynamicValue";
+import { ProgressionTable } from "./ProgressionTable";
+import { Player } from "../Core";
 /** @class
  *  A statistic progression of the game.
  *  @extends System.Base

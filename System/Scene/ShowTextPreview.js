@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Common, Manager } from "../index.js";
-import { Paths } from "../Common/index.js";
-import { Game } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { Common, Manager } from "..";
+import { Paths } from "../Common";
+import { Game } from "../Core";
+import { Base } from "./Base";
 /**
  *  Scene used for
  */

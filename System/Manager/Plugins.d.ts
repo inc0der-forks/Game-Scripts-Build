@@ -1,4 +1,4 @@
-import { System } from "../index.js";
+import { System } from "../index";
 /** @class
  *  The class who handles plugins of RPG Paper Maker.
  *  @static

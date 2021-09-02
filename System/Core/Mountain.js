@@ -8,12 +8,12 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { MapElement } from "./index.js";
-import { Sprite } from "./index.js";
-import { Utils, Constants } from "../Common/index.js";
-import { Datas } from "../index.js";
-import { Vector3 } from "./Vector3.js";
-import { Vector2 } from "./Vector2.js";
+import { MapElement } from "./index";
+import { Sprite } from "./index";
+import { Utils, Constants } from "../Common";
+import { Datas } from "../index";
+import { Vector3 } from "./Vector3";
+import { Vector2 } from "./Vector2";
 /**
  * A mountain in the map.
  *

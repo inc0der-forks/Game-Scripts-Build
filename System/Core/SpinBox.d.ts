@@ -1,5 +1,5 @@
-import { Bitmap } from "./Bitmap.js";
-import { WindowBox } from "./WindowBox.js";
+import { Bitmap } from "./Bitmap";
+import { WindowBox } from "./WindowBox";
 /**
  * The class for window boxes.
  * @class

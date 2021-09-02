@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Base } from "./Base.js";
-import { Manager, Datas } from "../index.js";
-import { Picture2D, WindowChoices, WindowBox, Game } from "../Core/index.js";
-import { Enum, Platform, ScreenResolution, Constants } from "../Common/index.js";
+import { Base } from "./Base";
+import { Manager, Datas } from "../index";
+import { Picture2D, WindowChoices, WindowBox, Game } from "../Core";
+import { Enum, Platform, ScreenResolution, Constants } from "../Common";
 var PictureKind = Enum.PictureKind;
 /**
  *  The Scene displaying the game title screen.

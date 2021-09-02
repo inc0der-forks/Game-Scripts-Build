@@ -8,12 +8,12 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, Graphic, Manager } from "../index.js";
-import { ScreenResolution } from "../Common/index.js";
-import { Bitmap } from "./Bitmap.js";
-import { Rectangle } from "./Rectangle.js";
-import { WindowBox } from "./WindowBox.js";
-import { WindowChoices } from "./WindowChoices.js";
+import { Datas, Graphic, Manager } from "..";
+import { ScreenResolution } from "../Common";
+import { Bitmap } from "./Bitmap";
+import { Rectangle } from "./Rectangle";
+import { WindowBox } from "./WindowBox";
+import { WindowChoices } from "./WindowChoices";
 /**
  * The class for window boxes.
  * @class

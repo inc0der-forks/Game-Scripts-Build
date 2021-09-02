@@ -8,9 +8,9 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { System } from "../index.js";
-import { Constants, Utils } from "../Common/index.js";
-import { Base } from "./Base.js";
+import { System } from "..";
+import { Constants, Utils } from "../Common";
+import { Base } from "./Base";
 /** @class
  *  A font name of the game.
  *  @extends System.Base

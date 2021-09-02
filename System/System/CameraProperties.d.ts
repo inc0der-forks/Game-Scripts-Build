@@ -1,6 +1,6 @@
-import { Base } from "./Base.js";
-import { DynamicValue } from "./DynamicValue.js";
-import { Camera } from "../Core/index.js";
+import { Base } from "./Base";
+import { DynamicValue } from "./DynamicValue";
+import { Camera } from "../Core";
 /** @class
  *  A camera properties of the game.
  *  @extends System.Base

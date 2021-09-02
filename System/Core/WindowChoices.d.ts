@@ -1,8 +1,8 @@
-import { Bitmap } from "./Bitmap.js";
-import { Enum } from "../Common/index.js";
+import { Bitmap } from "./Bitmap";
+import { Enum } from "../Common";
 import OrientationWindow = Enum.OrientationWindow;
-import { Graphic } from "../index.js";
-import { WindowBox } from "./WindowBox.js";
+import { Graphic } from "../index";
+import { WindowBox } from "./WindowBox";
 /**
  * the choices options used for the window initialization
  *

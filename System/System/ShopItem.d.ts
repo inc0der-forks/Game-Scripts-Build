@@ -1,7 +1,7 @@
-import { System } from "../index.js";
-import { Enum } from "../Common/index.js";
-import { StructIterator } from "../EventCommand/index.js";
-import { Base } from "./Base.js";
+import { System } from "..";
+import { Enum } from "../Common";
+import { StructIterator } from "../EventCommand";
+import { Base } from "./Base";
 /** @class
  *  A skill learned by a player.
  *  @param {number} id - The ID of the skill

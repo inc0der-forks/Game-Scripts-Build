@@ -1,5 +1,5 @@
-import { Scene, System } from "../index.js";
-import { Enum } from "../Common/index.js";
+import { Scene, System } from "..";
+import { Enum } from "../Common";
 declare class BattleEnemyAttack {
     battle: Scene.Battle;
     constructor(battle: Scene.Battle);

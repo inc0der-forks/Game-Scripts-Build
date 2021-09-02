@@ -1,8 +1,8 @@
-import { Land } from "./Land.js";
-import { TextureBundle } from "./TextureBundle.js";
-import { Position } from "./Position.js";
-import { StructMapElementCollision } from "./MapElement.js";
-import { CustomGeometry } from "./CustomGeometry.js";
+import { Land } from "./Land";
+import { TextureBundle } from "./TextureBundle";
+import { Position } from "./Position";
+import { StructMapElementCollision } from "./MapElement";
+import { CustomGeometry } from "./CustomGeometry";
 /**
  * An autotile in the map
  *

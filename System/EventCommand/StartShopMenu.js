@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Manager, Scene, System } from "../index.js";
-import { Enum, Utils } from "../Common/index.js";
-import { Game, Item } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { Manager, Scene, System } from "..";
+import { Enum, Utils } from "../Common";
+import { Game, Item } from "../Core";
+import { Base } from "./Base";
 /** @class
  *  An event command for sarting shop menu.
  *  @extends EventCommand.Base

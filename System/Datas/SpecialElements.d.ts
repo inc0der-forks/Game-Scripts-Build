@@ -1,4 +1,4 @@
-import { System } from "../index.js";
+import { System } from "../index";
 /** @class
  *  All the special elements datas.
  *  @static

@@ -1,7 +1,7 @@
-import { Base } from "./Base.js";
-import { System } from "../index.js";
-import { Player } from "../Core/index.js";
-import { StructIterator } from "../EventCommand/index.js";
+import { Base } from "./Base";
+import { System } from "../index";
+import { Player } from "../Core";
+import { StructIterator } from "../EventCommand";
 /** @class
  *  A cost of a common skill item.
  *  @extends System.Base

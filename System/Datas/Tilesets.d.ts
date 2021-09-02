@@ -1,7 +1,7 @@
-import { Enum } from "../Common/index.js";
-import { System } from "../index.js";
+import { Enum } from "../Common";
+import { System } from "../index";
 import PictureKind = Enum.PictureKind;
-import { TextureBundle } from "../Core/index.js";
+import { TextureBundle } from "../Core";
 /** @class
  *  All the tilesets datas.
  *  @static

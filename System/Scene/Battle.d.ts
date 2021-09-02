@@ -1,11 +1,11 @@
-import { Battler, WindowBox, WindowChoices, Item, Animation, Player, ReactionInterpreter } from "../Core/index.js";
-import { Graphic, System, Scene } from "../index.js";
-import { Enum } from "../Common/index.js";
+import { Battler, WindowBox, WindowChoices, Item, Animation, Player, ReactionInterpreter } from "../Core";
+import { Graphic, System, Scene } from "..";
+import { Enum } from "../Common";
 import CharacterKind = Enum.CharacterKind;
 import EffectSpecialActionKind = Enum.EffectSpecialActionKind;
 import MapTransitionKind = Enum.MapTransitionKind;
 import BattleStep = Enum.BattleStep;
-import { Map } from "./Map.js";
+import { Map } from "./Map";
 /** @class
  *  A scene for battling.
  *  @extends SceneGame

@@ -8,9 +8,9 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, System } from "../index.js";
-import { Enum, Utils } from "../Common/index.js";
-import { Icon } from "./Icon.js";
+import { Datas, System } from "..";
+import { Enum, Utils } from "../Common";
+import { Icon } from "./Icon";
 /** @class
  *  A possible status hero.
  *  @extends System.Base

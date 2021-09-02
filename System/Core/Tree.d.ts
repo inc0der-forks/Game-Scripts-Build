@@ -1,4 +1,4 @@
-import { Node } from "./Node.js";
+import { Node } from "./Node";
 /** @class
  *  Datas structure of tree.
  *  @param {any} data - The data

@@ -1,5 +1,5 @@
-import { Base } from "./Base.js";
-import { Graphic } from "../index.js";
+import { Base } from "./Base";
+import { Graphic } from "..";
 /** @class
  *  The graphic displaying all experience + currencies
  */

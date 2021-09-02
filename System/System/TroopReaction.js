@@ -8,9 +8,9 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { System } from "../index.js";
-import { Enum, Utils } from "../Common/index.js";
-import { Reaction } from "./Reaction.js";
+import { System } from "..";
+import { Enum, Utils } from "../Common";
+import { Reaction } from "./Reaction";
 /** @class
  *  A troop reaction conditions of the game.
  *  @extends System.Base

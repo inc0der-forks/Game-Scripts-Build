@@ -1,6 +1,6 @@
-import { Graphic, Core, System } from "../index.js";
-import { Picture2D, Frame, Rectangle } from "../Core/index.js";
-import { Base } from "./Base.js";
+import { Graphic, Core, System } from "../index";
+import { Picture2D, Frame, Rectangle } from "../Core";
+import { Base } from "./Base";
 /** @class
  *  The graphic displaying the player minimal stats informations.
  *  @extends Graphic.Base

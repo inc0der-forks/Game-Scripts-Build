@@ -8,10 +8,10 @@
     See RPG Paper Maker EULA here:
         http://rpg-paper-maker.com/index.php/eula.
 */
-import { Datas, Manager } from "../index.js";
-import { Main } from "../main.js";
-import { KeyEvent } from "./KeyEvent.js";
-import { Platform } from "./Platform.js";
+import { Datas, Manager } from "..";
+import { Main } from "../main";
+import { KeyEvent } from "./KeyEvent";
+import { Platform } from "./Platform";
 /**
  *  @class
  *  Handles inputs for keyboard and mouse.
